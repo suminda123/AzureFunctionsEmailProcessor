@@ -1,0 +1,11 @@
+{
+	"IsEncrypted": false,
+	"Values": {
+		"AzureWebJobsStorage": "UseDevelopmentStorage=true",
+		"FUNCTIONS_WORKER_RUNTIME": "dotnet"
+	},
+	"EmailHost": "smtp.gmail.com",
+	"EmailPort": "587",
+	"EmailSender": "username@gmail.com",
+	"EmailPassword": "SuperSecretPassword"
+}
